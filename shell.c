@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * execute - executes the command
+ * execute - executes the command in the file
  * @cmd: command to run
  * Return: 0 on success1 -1 if cmd is exit and 1 on any other error
  */
