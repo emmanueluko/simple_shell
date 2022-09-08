@@ -31,7 +31,7 @@ the shell; otherwise the exit status of the preceding command is used.
 .sp
 .IP "-help [builtin]"
 .sp
-Retrieve informational text on how use builtin
+Retrieve informational text on how use builtin.
 .sp
 .IP "-unsetenv [variable]"
 .sp
