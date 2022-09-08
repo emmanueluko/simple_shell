@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * *nbr_spaces - return the number of occurent of a string
+ * *nbr_spaces - return the number of occurent of a given string
  * @s: string to check
  * Return: int
  */
